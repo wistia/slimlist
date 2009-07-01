@@ -1,0 +1,11 @@
+/* General page style for the playlist.html example file. */
+
+body {
+	font-family: Helvetica;
+	margin-left: 50px;
+}
+
+h1 {
+	font-size: 4em;
+	color: #555;
+}

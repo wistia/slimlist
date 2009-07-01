@@ -1,0 +1,75 @@
+h1. Slimlist
+
+The *Slimlist* is an ultra-lightweight video playlist implementation build 
+in javascript. Easily create gorgeous looking video playlists that you
+can embed on your website or blog.
+
+h2. Why is this awesome?
+
+* *Extremely customizable*. The problem with flash playlist implementations 
+	is that they all look the same. Yeah, maybe you get a few themes to choose from,
+	but is that really what you want? With the Slimlist, you use a combination
+	of css and javascript to _really_ customize your playlist. Just take a look at 
+	some of the example themes to see how flexible it is.
+
+* *Ultra-lightweight*. This playlist is framework-less. We don't try to sneak in
+	jQuery, prototype, or even swfobject for that matter. The whole thing is only
+	6K. And that's uncompressed!
+
+* *Embed anything*. Slimlist "plays" anything. Embed video from anywhere:
+	YouTube, vimeo, dailymotion. It even works with images, documents, SWFs, HTML, 
+	whole webpages! Whatever!
+
+* *Plugs in to Wistia*. If you use Wistia, you can grab a playlist data feed 
+	directly from a project in your account and Wistia will act as your playlist
+	management console. Rearrange sections and media and your embedded player
+	will update in real time. Use Wistia's advanced video analytics to see exactly
+	who's watching your video and how they're watching it.
+
+* *Open source*. Fork it, change it, improve it!
+
+
+h2. Data feed
+
+The Slimlist accepts a json data feed in the following format.
+See `movie_trailers.json` for a working example of this feed.
+
+	[
+		// the first playlist
+		{ id: 1,														// A unique id for the playlist
+			name: 'Playlist One', 						// The name of the playlist
+			medias: [
+				{
+					id: 1,												// a unique idea for this item
+					name: 'My first video',				// the title of this item
+					thumbnail: {									// a thumbnail image for this item
+						width: 100,
+						height: 60,
+						url: 'http://brendan.com/images/video1.jpg'
+					},
+					embed: '<embed>...</embed>'		// the HTML embed code for this item
+				
+				}, {
+					id: 2,
+					name: 'My second video',
+					thumbnail: {
+						width: 100,
+						height: 60,
+						url: 'http://brendan.com/images/video2.jpg'
+					}
+				}
+			]
+		},
+	
+		// the second section
+		{	id: 2,
+			name: 'Playlist Two',
+			medias: [...]
+		}
+	]
+
+
+h2. Who made this?
+
+Brendan Schwartz of Wistia, Inc. Have some questions? Just send me a message on
+github!

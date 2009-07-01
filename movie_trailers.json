@@ -1,0 +1,116 @@
+// This is a sample data feed for Slimlist.
+// It contains a bunch of movie trailers organized by genre.
+
+playlist.loadData([{
+    "id": 7689,
+    "name": "Action \/ Adventure",
+    "medias": [{
+        "id": 42622,
+        "name": "2012",
+        "type": "Video",
+        "thumbnail": {
+            "width": 100,
+            "height": 60,
+            "url": "http:\/\/media-seek.wistia.com\/deliveries\/a00843ffa39512058adec3fbe1508b9e6750558b.jpg?image_crop_resized=100x60"
+        },
+        "embed": "<object width=\"100%\" height=\"100%\" classid=\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\"><param name=\"movie\" value=\"http:\/\/embed.wistia.com\/flash\/embed_player_v1.1.swf\"\/><param name=\"allowfullscreen\" value=\"true\"\/><param name=\"allowscriptaccess\" value=\"always\"\/><param name=\"wmode\" value=\"opaque\"\/><param name=\"bgcolor\" value=\"#000000\"><param name=\"flashvars\" value=\"videoUrl=http:\/\/embed.wistia.com\/deliveries\/4da3c376e1477f7ea02ce2f0f9365d0d662abb56.bin&stillUrl=http:\/\/embed.wistia.com\/deliveries\/a00843ffa39512058adec3fbe1508b9e6750558b.bin&playButtonVisible=true&unbufferedSeek=true&autoLoad=false&autoPlay=false&embedServiceURL=http:\/\/distillery.wistia.com\/x&accountKey=wistia-production_87&mediaID=wistia-production_42622&mediaDuration=168.1\"\/><embed src=\"http:\/\/embed.wistia.com\/flash\/embed_player_v1.1.swf\" width=\"100%\" height=\"100%\" type=\"application\/x-shockwave-flash\" allowfullscreen=\"true\" allowscriptaccess=\"always\" wmode=\"opaque\" bgcolor=\"#000000\" flashvars=\"videoUrl=http:\/\/embed.wistia.com\/deliveries\/4da3c376e1477f7ea02ce2f0f9365d0d662abb56.bin&stillUrl=http:\/\/embed.wistia.com\/deliveries\/a00843ffa39512058adec3fbe1508b9e6750558b.bin&playButtonVisible=true&unbufferedSeek=true&autoLoad=false&autoPlay=false&embedServiceURL=http:\/\/distillery.wistia.com\/x&accountKey=wistia-production_87&mediaID=wistia-production_42622&mediaDuration=168.1\"><\/embed><\/object>"
+    }, {
+        "id": 42631,
+        "name": "Daybreakers",
+        "type": "Video",
+        "thumbnail": {
+            "width": 100,
+            "height": 60,
+            "url": "http:\/\/media-seek.wistia.com\/deliveries\/7f780b8dc7176864741f262d622098d99a32cb1b.jpg?image_crop_resized=100x60"
+        },
+        "embed": "<object width=\"100%\" height=\"100%\" classid=\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\"><param name=\"movie\" value=\"http:\/\/embed.wistia.com\/flash\/embed_player_v1.1.swf\"\/><param name=\"allowfullscreen\" value=\"true\"\/><param name=\"allowscriptaccess\" value=\"always\"\/><param name=\"wmode\" value=\"opaque\"\/><param name=\"bgcolor\" value=\"#000000\"><param name=\"flashvars\" value=\"videoUrl=http:\/\/embed.wistia.com\/deliveries\/cbfa325d1dfbfbe796c5cf423962e4ecf749fdf6.bin&stillUrl=http:\/\/embed.wistia.com\/deliveries\/7f780b8dc7176864741f262d622098d99a32cb1b.bin&playButtonVisible=true&unbufferedSeek=true&autoLoad=false&autoPlay=false&embedServiceURL=http:\/\/distillery.wistia.com\/x&accountKey=wistia-production_87&mediaID=wistia-production_42631&mediaDuration=140.8\"\/><embed src=\"http:\/\/embed.wistia.com\/flash\/embed_player_v1.1.swf\" width=\"100%\" height=\"100%\" type=\"application\/x-shockwave-flash\" allowfullscreen=\"true\" allowscriptaccess=\"always\" wmode=\"opaque\" bgcolor=\"#000000\" flashvars=\"videoUrl=http:\/\/embed.wistia.com\/deliveries\/cbfa325d1dfbfbe796c5cf423962e4ecf749fdf6.bin&stillUrl=http:\/\/embed.wistia.com\/deliveries\/7f780b8dc7176864741f262d622098d99a32cb1b.bin&playButtonVisible=true&unbufferedSeek=true&autoLoad=false&autoPlay=false&embedServiceURL=http:\/\/distillery.wistia.com\/x&accountKey=wistia-production_87&mediaID=wistia-production_42631&mediaDuration=140.8\"><\/embed><\/object>"
+    }, {
+        "id": 42625,
+        "name": "The Last Air Bender",
+        "type": "Video",
+        "thumbnail": {
+            "width": 100,
+            "height": 60,
+            "url": "http:\/\/media-seek.wistia.com\/deliveries\/d2ae04bc7fb141830915db5ad436ed1d90a7c8f2.jpg?image_crop_resized=100x60"
+        },
+        "embed": "<object width=\"100%\" height=\"100%\" classid=\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\"><param name=\"movie\" value=\"http:\/\/embed.wistia.com\/flash\/embed_player_v1.1.swf\"\/><param name=\"allowfullscreen\" value=\"true\"\/><param name=\"allowscriptaccess\" value=\"always\"\/><param name=\"wmode\" value=\"opaque\"\/><param name=\"bgcolor\" value=\"#000000\"><param name=\"flashvars\" value=\"videoUrl=http:\/\/embed.wistia.com\/deliveries\/e5f796ceec70822d942b2e0a6b62ed77fb7cd57a.bin&stillUrl=http:\/\/embed.wistia.com\/deliveries\/d2ae04bc7fb141830915db5ad436ed1d90a7c8f2.bin&playButtonVisible=true&unbufferedSeek=true&autoLoad=false&autoPlay=false&embedServiceURL=http:\/\/distillery.wistia.com\/x&accountKey=wistia-production_87&mediaID=wistia-production_42625&mediaDuration=98.0\"\/><embed src=\"http:\/\/embed.wistia.com\/flash\/embed_player_v1.1.swf\" width=\"100%\" height=\"100%\" type=\"application\/x-shockwave-flash\" allowfullscreen=\"true\" allowscriptaccess=\"always\" wmode=\"opaque\" bgcolor=\"#000000\" flashvars=\"videoUrl=http:\/\/embed.wistia.com\/deliveries\/e5f796ceec70822d942b2e0a6b62ed77fb7cd57a.bin&stillUrl=http:\/\/embed.wistia.com\/deliveries\/d2ae04bc7fb141830915db5ad436ed1d90a7c8f2.bin&playButtonVisible=true&unbufferedSeek=true&autoLoad=false&autoPlay=false&embedServiceURL=http:\/\/distillery.wistia.com\/x&accountKey=wistia-production_87&mediaID=wistia-production_42625&mediaDuration=98.0\"><\/embed><\/object>"
+    }, {
+        "id": 42627,
+        "name": "Twilight: New Moon",
+        "type": "Video",
+        "thumbnail": {
+            "width": 100,
+            "height": 60,
+            "url": "http:\/\/media-seek.wistia.com\/deliveries\/d815ed76672b7b2a5c9b6fdcef1028b0fafcc9b0.jpg?image_crop_resized=100x60"
+        },
+        "embed": "<object width=\"100%\" height=\"100%\" classid=\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\"><param name=\"movie\" value=\"http:\/\/embed.wistia.com\/flash\/embed_player_v1.1.swf\"\/><param name=\"allowfullscreen\" value=\"true\"\/><param name=\"allowscriptaccess\" value=\"always\"\/><param name=\"wmode\" value=\"opaque\"\/><param name=\"bgcolor\" value=\"#000000\"><param name=\"flashvars\" value=\"videoUrl=http:\/\/embed.wistia.com\/deliveries\/9b3ac494e382827d61cc1248c0b5934f20c2882c.bin&stillUrl=http:\/\/embed.wistia.com\/deliveries\/d815ed76672b7b2a5c9b6fdcef1028b0fafcc9b0.bin&playButtonVisible=true&unbufferedSeek=true&autoLoad=false&autoPlay=false&embedServiceURL=http:\/\/distillery.wistia.com\/x&accountKey=wistia-production_87&mediaID=wistia-production_42627&mediaDuration=107.0\"\/><embed src=\"http:\/\/embed.wistia.com\/flash\/embed_player_v1.1.swf\" width=\"100%\" height=\"100%\" type=\"application\/x-shockwave-flash\" allowfullscreen=\"true\" allowscriptaccess=\"always\" wmode=\"opaque\" bgcolor=\"#000000\" flashvars=\"videoUrl=http:\/\/embed.wistia.com\/deliveries\/9b3ac494e382827d61cc1248c0b5934f20c2882c.bin&stillUrl=http:\/\/embed.wistia.com\/deliveries\/d815ed76672b7b2a5c9b6fdcef1028b0fafcc9b0.bin&playButtonVisible=true&unbufferedSeek=true&autoLoad=false&autoPlay=false&embedServiceURL=http:\/\/distillery.wistia.com\/x&accountKey=wistia-production_87&mediaID=wistia-production_42627&mediaDuration=107.0\"><\/embed><\/object>"
+    }]
+}, {
+    "id": 7688,
+    "name": "Romance",
+    "medias": [{
+        "id": 42630,
+        "name": "The Answerman",
+        "type": "Video",
+        "thumbnail": {
+            "width": 100,
+            "height": 60,
+            "url": "http:\/\/media-seek.wistia.com\/deliveries\/37bafc98e0b8548cef0a776aee9eac07d9928dae.jpg?image_crop_resized=100x60"
+        },
+        "embed": "<object width=\"100%\" height=\"100%\" classid=\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\"><param name=\"movie\" value=\"http:\/\/embed.wistia.com\/flash\/embed_player_v1.1.swf\"\/><param name=\"allowfullscreen\" value=\"true\"\/><param name=\"allowscriptaccess\" value=\"always\"\/><param name=\"wmode\" value=\"opaque\"\/><param name=\"bgcolor\" value=\"#000000\"><param name=\"flashvars\" value=\"videoUrl=http:\/\/embed.wistia.com\/deliveries\/b17bd3fccfc4d3e0b37f3524c578210f3a3946f0.bin&stillUrl=http:\/\/embed.wistia.com\/deliveries\/37bafc98e0b8548cef0a776aee9eac07d9928dae.bin&playButtonVisible=true&unbufferedSeek=true&autoLoad=false&autoPlay=false&embedServiceURL=http:\/\/distillery.wistia.com\/x&accountKey=wistia-production_87&mediaID=wistia-production_42630&mediaDuration=147.7\"\/><embed src=\"http:\/\/embed.wistia.com\/flash\/embed_player_v1.1.swf\" width=\"100%\" height=\"100%\" type=\"application\/x-shockwave-flash\" allowfullscreen=\"true\" allowscriptaccess=\"always\" wmode=\"opaque\" bgcolor=\"#000000\" flashvars=\"videoUrl=http:\/\/embed.wistia.com\/deliveries\/b17bd3fccfc4d3e0b37f3524c578210f3a3946f0.bin&stillUrl=http:\/\/embed.wistia.com\/deliveries\/37bafc98e0b8548cef0a776aee9eac07d9928dae.bin&playButtonVisible=true&unbufferedSeek=true&autoLoad=false&autoPlay=false&embedServiceURL=http:\/\/distillery.wistia.com\/x&accountKey=wistia-production_87&mediaID=wistia-production_42630&mediaDuration=147.7\"><\/embed><\/object>"
+    }, {
+        "id": 42624,
+        "name": "I Hate Valentine's Day",
+        "type": "Video",
+        "thumbnail": {
+            "width": 100,
+            "height": 60,
+            "url": "http:\/\/media-seek.wistia.com\/deliveries\/01dc58829fc888f00e0dafe77741b4d044d67a57.jpg?image_crop_resized=100x60"
+        },
+        "embed": "<object width=\"100%\" height=\"100%\" classid=\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\"><param name=\"movie\" value=\"http:\/\/embed.wistia.com\/flash\/embed_player_v1.1.swf\"\/><param name=\"allowfullscreen\" value=\"true\"\/><param name=\"allowscriptaccess\" value=\"always\"\/><param name=\"wmode\" value=\"opaque\"\/><param name=\"bgcolor\" value=\"#000000\"><param name=\"flashvars\" value=\"videoUrl=http:\/\/embed.wistia.com\/deliveries\/55eebbe9ab3c00de57812d1e25db65193e56c0a4.bin&stillUrl=http:\/\/embed.wistia.com\/deliveries\/01dc58829fc888f00e0dafe77741b4d044d67a57.bin&playButtonVisible=true&unbufferedSeek=true&autoLoad=false&autoPlay=false&embedServiceURL=http:\/\/distillery.wistia.com\/x&accountKey=wistia-production_87&mediaID=wistia-production_42624&mediaDuration=122.1\"\/><embed src=\"http:\/\/embed.wistia.com\/flash\/embed_player_v1.1.swf\" width=\"100%\" height=\"100%\" type=\"application\/x-shockwave-flash\" allowfullscreen=\"true\" allowscriptaccess=\"always\" wmode=\"opaque\" bgcolor=\"#000000\" flashvars=\"videoUrl=http:\/\/embed.wistia.com\/deliveries\/55eebbe9ab3c00de57812d1e25db65193e56c0a4.bin&stillUrl=http:\/\/embed.wistia.com\/deliveries\/01dc58829fc888f00e0dafe77741b4d044d67a57.bin&playButtonVisible=true&unbufferedSeek=true&autoLoad=false&autoPlay=false&embedServiceURL=http:\/\/distillery.wistia.com\/x&accountKey=wistia-production_87&mediaID=wistia-production_42624&mediaDuration=122.1\"><\/embed><\/object>"
+    }, {
+        "id": 42623,
+        "name": "Cheri",
+        "type": "Video",
+        "thumbnail": {
+            "width": 100,
+            "height": 60,
+            "url": "http:\/\/media-seek.wistia.com\/deliveries\/4fd06e14059f66e8d53ef9867361dc589e1b7c9b.jpg?image_crop_resized=100x60"
+        },
+        "embed": "<object width=\"100%\" height=\"100%\" classid=\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\"><param name=\"movie\" value=\"http:\/\/embed.wistia.com\/flash\/embed_player_v1.1.swf\"\/><param name=\"allowfullscreen\" value=\"true\"\/><param name=\"allowscriptaccess\" value=\"always\"\/><param name=\"wmode\" value=\"opaque\"\/><param name=\"bgcolor\" value=\"#000000\"><param name=\"flashvars\" value=\"videoUrl=http:\/\/embed.wistia.com\/deliveries\/fa678e185f6a6564b12a46e6fc10fb470c002427.bin&stillUrl=http:\/\/embed.wistia.com\/deliveries\/4fd06e14059f66e8d53ef9867361dc589e1b7c9b.bin&playButtonVisible=true&unbufferedSeek=true&autoLoad=false&autoPlay=false&embedServiceURL=http:\/\/distillery.wistia.com\/x&accountKey=wistia-production_87&mediaID=wistia-production_42623&mediaDuration=81.0\"\/><embed src=\"http:\/\/embed.wistia.com\/flash\/embed_player_v1.1.swf\" width=\"100%\" height=\"100%\" type=\"application\/x-shockwave-flash\" allowfullscreen=\"true\" allowscriptaccess=\"always\" wmode=\"opaque\" bgcolor=\"#000000\" flashvars=\"videoUrl=http:\/\/embed.wistia.com\/deliveries\/fa678e185f6a6564b12a46e6fc10fb470c002427.bin&stillUrl=http:\/\/embed.wistia.com\/deliveries\/4fd06e14059f66e8d53ef9867361dc589e1b7c9b.bin&playButtonVisible=true&unbufferedSeek=true&autoLoad=false&autoPlay=false&embedServiceURL=http:\/\/distillery.wistia.com\/x&accountKey=wistia-production_87&mediaID=wistia-production_42623&mediaDuration=81.0\"><\/embed><\/object>"
+    }, {
+        "id": 42626,
+        "name": "The Time Traveler's Wife",
+        "type": "Video",
+        "thumbnail": {
+            "width": 100,
+            "height": 60,
+            "url": "http:\/\/media-seek.wistia.com\/deliveries\/43c28f1f7c140c82aa23ebf2ed3a709d71ba0e5f.jpg?image_crop_resized=100x60"
+        },
+        "embed": "<object width=\"100%\" height=\"100%\" classid=\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\"><param name=\"movie\" value=\"http:\/\/embed.wistia.com\/flash\/embed_player_v1.1.swf\"\/><param name=\"allowfullscreen\" value=\"true\"\/><param name=\"allowscriptaccess\" value=\"always\"\/><param name=\"wmode\" value=\"opaque\"\/><param name=\"bgcolor\" value=\"#000000\"><param name=\"flashvars\" value=\"videoUrl=http:\/\/embed.wistia.com\/deliveries\/9578d37e4497cac8d8824d8b3c78e26c1c4b5a7d.bin&stillUrl=http:\/\/embed.wistia.com\/deliveries\/43c28f1f7c140c82aa23ebf2ed3a709d71ba0e5f.bin&playButtonVisible=true&unbufferedSeek=true&autoLoad=false&autoPlay=false&embedServiceURL=http:\/\/distillery.wistia.com\/x&accountKey=wistia-production_87&mediaID=wistia-production_42626&mediaDuration=146.1\"\/><embed src=\"http:\/\/embed.wistia.com\/flash\/embed_player_v1.1.swf\" width=\"100%\" height=\"100%\" type=\"application\/x-shockwave-flash\" allowfullscreen=\"true\" allowscriptaccess=\"always\" wmode=\"opaque\" bgcolor=\"#000000\" flashvars=\"videoUrl=http:\/\/embed.wistia.com\/deliveries\/9578d37e4497cac8d8824d8b3c78e26c1c4b5a7d.bin&stillUrl=http:\/\/embed.wistia.com\/deliveries\/43c28f1f7c140c82aa23ebf2ed3a709d71ba0e5f.bin&playButtonVisible=true&unbufferedSeek=true&autoLoad=false&autoPlay=false&embedServiceURL=http:\/\/distillery.wistia.com\/x&accountKey=wistia-production_87&mediaID=wistia-production_42626&mediaDuration=146.1\"><\/embed><\/object>"
+    }]
+}, {
+    "id": 7692,
+    "name": "Comedy",
+    "medias": [{
+        "id": 42632,
+        "name": "The Informant",
+        "type": "Video",
+        "thumbnail": {
+            "width": 100,
+            "height": 60,
+            "url": "http:\/\/media-seek.wistia.com\/deliveries\/34b67ab5b0ba1fa952ba293e13842a1f7a1317d4.jpg?image_crop_resized=100x60"
+        },
+        "embed": "<object width=\"100%\" height=\"100%\" classid=\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\"><param name=\"movie\" value=\"http:\/\/embed.wistia.com\/flash\/embed_player_v1.1.swf\"\/><param name=\"allowfullscreen\" value=\"true\"\/><param name=\"allowscriptaccess\" value=\"always\"\/><param name=\"wmode\" value=\"opaque\"\/><param name=\"bgcolor\" value=\"#000000\"><param name=\"flashvars\" value=\"videoUrl=http:\/\/embed.wistia.com\/deliveries\/392a82a625fba89deec7cbc7e15cce55e9598c81.bin&stillUrl=http:\/\/embed.wistia.com\/deliveries\/34b67ab5b0ba1fa952ba293e13842a1f7a1317d4.bin&playButtonVisible=true&unbufferedSeek=true&autoLoad=false&autoPlay=false&embedServiceURL=http:\/\/distillery.wistia.com\/x&accountKey=wistia-production_87&mediaID=wistia-production_42632&mediaDuration=149.1\"\/><embed src=\"http:\/\/embed.wistia.com\/flash\/embed_player_v1.1.swf\" width=\"100%\" height=\"100%\" type=\"application\/x-shockwave-flash\" allowfullscreen=\"true\" allowscriptaccess=\"always\" wmode=\"opaque\" bgcolor=\"#000000\" flashvars=\"videoUrl=http:\/\/embed.wistia.com\/deliveries\/392a82a625fba89deec7cbc7e15cce55e9598c81.bin&stillUrl=http:\/\/embed.wistia.com\/deliveries\/34b67ab5b0ba1fa952ba293e13842a1f7a1317d4.bin&playButtonVisible=true&unbufferedSeek=true&autoLoad=false&autoPlay=false&embedServiceURL=http:\/\/distillery.wistia.com\/x&accountKey=wistia-production_87&mediaID=wistia-production_42632&mediaDuration=149.1\"><\/embed><\/object>"
+    }, {
+        "id": 42628,
+        "name": "Zombieland",
+        "type": "Video",
+        "thumbnail": {
+            "width": 100,
+            "height": 60,
+            "url": "http:\/\/media-seek.wistia.com\/deliveries\/b652b6d30efb60f934bd563d81d86ad11c9dc92c.jpg?image_crop_resized=100x60"
+        },
+        "embed": "<object width=\"100%\" height=\"100%\" classid=\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\"><param name=\"movie\" value=\"http:\/\/embed.wistia.com\/flash\/embed_player_v1.1.swf\"\/><param name=\"allowfullscreen\" value=\"true\"\/><param name=\"allowscriptaccess\" value=\"always\"\/><param name=\"wmode\" value=\"opaque\"\/><param name=\"bgcolor\" value=\"#000000\"><param name=\"flashvars\" value=\"videoUrl=http:\/\/embed.wistia.com\/deliveries\/fb78393d8ee236d0506f37f968095857ccb4b0ec.bin&stillUrl=http:\/\/embed.wistia.com\/deliveries\/b652b6d30efb60f934bd563d81d86ad11c9dc92c.bin&playButtonVisible=true&unbufferedSeek=true&autoLoad=false&autoPlay=false&embedServiceURL=http:\/\/distillery.wistia.com\/x&accountKey=wistia-production_87&mediaID=wistia-production_42628&mediaDuration=120.1\"\/><embed src=\"http:\/\/embed.wistia.com\/flash\/embed_player_v1.1.swf\" width=\"100%\" height=\"100%\" type=\"application\/x-shockwave-flash\" allowfullscreen=\"true\" allowscriptaccess=\"always\" wmode=\"opaque\" bgcolor=\"#000000\" flashvars=\"videoUrl=http:\/\/embed.wistia.com\/deliveries\/fb78393d8ee236d0506f37f968095857ccb4b0ec.bin&stillUrl=http:\/\/embed.wistia.com\/deliveries\/b652b6d30efb60f934bd563d81d86ad11c9dc92c.bin&playButtonVisible=true&unbufferedSeek=true&autoLoad=false&autoPlay=false&embedServiceURL=http:\/\/distillery.wistia.com\/x&accountKey=wistia-production_87&mediaID=wistia-production_42628&mediaDuration=120.1\"><\/embed><\/object>"
+    }]
+}])

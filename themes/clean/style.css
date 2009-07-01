@@ -1,0 +1,136 @@
+.wistia-player {
+	width: 960px;
+	height: 410px;
+	position: relative;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; 
+}
+.wistia-player a {
+	text-decoration: none;
+	color: #000000;
+}
+.wistia-player img {
+	border: 0;
+}
+.wistia-player ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+/*  L O A D I N G   I N D I C A T O R  */
+.wistia-player .loading {
+	position: absolute;
+	top: 165px;
+	left: 250px;
+	
+	width: 121px;
+	height: 30px;
+	background: url(images/loading.gif) no-repeat;
+}
+
+/*  S E C T I O N    T A B S  */
+.wistia-sections {
+	height: 30px;
+	float: right;
+	z-index: 0;
+}
+.wistia-sections li {
+	float: left;
+	margin-right: 15px;
+}
+.wistia-sections a {
+	display: block;
+	background-color: #efefef;
+	color: #555;
+	padding: 10px 20px 15px 20px;
+}
+.wistia-sections a:hover {
+	background-color: #E2F2F6;
+	color: black;
+}
+.wistia-sections li.selected a {
+	background-color: #6299c5;
+	color: white;
+}
+
+
+/*  V I D E O    P L A Y E R  */
+.wistia-video {
+	z-index: 99;
+	width: 640px;
+	height: 360px;
+	position: absolute;
+	left: 0;
+	top: 30px;
+	color: black;
+	
+	/* border: 8px solid #c5c4c2; */
+	padding: 12px;
+  background: url('images/video_bg.png') no-repeat;
+  
+	
+	overflow: hidden;
+}
+
+/*  P L A Y L I S T  */
+.wistia-playlist {
+	width: 305px;
+	height: 80%;
+	position: absolute;
+	top: 45px;
+	right: 0;
+	overflow: hidden;
+	overflow-y: scroll;
+	border: 5px solid #d5d4d2;
+	border-left: 0;
+	/*
+	-moz-border-radius: 0 10px 10px 0;
+  -webkit-border-top-right-radius: 10px;
+  -webkit-border-bottom-right-radius: 10px;
+  border-radius: 0 10px 10px 0;
+  */
+}
+
+.wistia-playlist a {
+	color: #555;
+	display: block;
+	height: 60px;
+	padding: 15px 10px 15px 140px;
+	position: relative;	
+  background-color: #ffffff;
+	overflow: hidden;
+	border-bottom: 1px solid #eee;
+	font-size: 14px;
+}
+
+.wistia-playlist a:hover {
+	color: black;
+	background: #E2F2F6;
+}
+
+
+.wistia-playlist ul {
+	display: none;
+}
+.wistia-playlist ul.selected {
+	display: block;
+}
+
+.wistia-playlist li {
+	
+}
+
+.wistia-playlist li.selected a {
+  background-color: #6299c5;
+	color: white;
+}
+
+.wistia-playlist img {
+	position: absolute;
+	left: 15px;
+	top: 13px;
+	border: 3px solid #ddd;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+}

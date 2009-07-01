@@ -1,0 +1,107 @@
+body {
+	background-color: black;
+	color: white;
+	font-family: Helvetica;
+}
+
+h1 {
+	font-size: 4em;
+	color: #555;
+}
+
+.wistia-player {
+	width: 960px;
+	height: 410px;
+	position: relative;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; 
+}
+.wistia-player a {
+	text-decoration: none;
+	color: #000000;
+}
+.wistia-player img {
+	border: 0;
+}
+.wistia-player ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+/*  S E C T I O N    T A B S  */
+.wistia-sections {
+	height: 20px;
+	float: right;
+}
+.wistia-sections li {
+	float: left;
+	margin-right: 10px;
+}
+.wistia-sections a {
+	display: block;
+	background-color: #aaa;
+	padding: 5px 10px;
+}
+.wistia-sections li.selected a {
+	background-color: pink;
+}
+
+
+/*  V I D E O    P L A Y E R  */
+.wistia-video {
+	width: 640px;
+	height: 360px;
+	background-color: black;
+	position: absolute;
+	border: 10px solid #555;
+	border-right: 0;
+	left: 0;
+	bottom: 0;
+	color: white;
+}
+
+
+
+/*  P L A Y L I S T  */
+.wistia-playlist {
+	width: 300px;
+	height: 360px;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	overflow: hidden;
+	overflow-y: scroll;
+	border: 10px solid #555;
+	border-left: 0;
+}
+
+.wistia-playlist a {
+	color: white;	
+}
+
+.wistia-playlist ul {
+	display: none;
+}
+.wistia-playlist ul.selected {
+	display: block;
+}
+
+.wistia-playlist li {
+	padding: 5px 10px 5px 140px;
+	position: relative;
+	height: 70px;
+}
+
+.wistia-playlist li.selected {
+	background-color: pink;
+}
+
+.wistia-playlist li.selected a {
+	color: black;
+}
+
+.wistia-playlist img {
+	position: absolute;
+	left: 20px;
+	top: 5px;
+}

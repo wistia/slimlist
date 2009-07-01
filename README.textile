@@ -20,7 +20,7 @@ h2. Why is this awesome?
 	YouTube, vimeo, dailymotion. It even works with images, documents, SWFs, HTML, 
 	whole webpages! Whatever!
 
-* *Plugs in to Wistia*. If you use Wistia, you can grab a playlist data feed 
+* *Plugs in to Wistia*. If you use [Wistia](http://wistia.com), you can grab a playlist data feed 
 	directly from a project in your account and Wistia will act as your playlist
 	management console. Rearrange sections and media and your embedded player
 	will update in real time. Use Wistia's advanced video analytics to see exactly
@@ -69,5 +69,5 @@ See `movie_trailers.json` for a working example of this feed.
 
 h2. Who made this?
 
-Brendan Schwartz of Wistia, Inc. Have some questions? Just send me a message on
+Brendan Schwartz of [Wistia, Inc](http://wistia.com). Have some questions? Just send me a message on
 github!
